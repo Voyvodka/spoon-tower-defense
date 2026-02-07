@@ -2,9 +2,6 @@
 
 An isometric tower defense game built with **Phaser 3** and **TypeScript**, featuring a unique "kitchen cutlery" theme. Defend your base against waves of rogue kitchenware using specialized spoon and fork towers!
 
-![Isometric Screenshot](https://raw.githubusercontent.com/devsamet/spoon-tower-defense/main/public/screenshot.png)
-*(Note: Screenshot placeholder)*
-
 ## 🎮 Play Now
 
 **Live Demo:** [https://towerdefense-two.vercel.app](https://towerdefense-two.vercel.app)
