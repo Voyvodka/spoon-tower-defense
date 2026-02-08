@@ -1,4 +1,7 @@
+import { injectSpeedInsights } from '@vercel/speed-insights';
 import Phaser from 'phaser';
+
+injectSpeedInsights();
 
 import './style.css';
 import { GameScene } from './game/scenes/GameScene';
